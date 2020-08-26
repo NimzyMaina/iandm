@@ -6,6 +6,11 @@ Consume Game of Thrones APIs from a Web Page
 
 This assignment has been done using NuxtJs Framework.
 
+## Features to take note
+
+- Pagination on the characters page
+- Request caching using Vuex store on **Houses** page. (founder, overlord)
+
 ### Requirements
 
 - Yarn or NPM
