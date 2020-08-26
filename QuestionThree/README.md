@@ -1,6 +1,15 @@
-# iandm
+# Question Three
 
-> I &amp; M Senior Dev Challenge
+Consume Game of Thrones APIs from a Web Page
+
+## How to run code
+
+This assignment has been done using NuxtJs Framework.
+
+### Requirements
+
+- Yarn or NPM
+- Nodejs
 
 ## Build Setup
 
