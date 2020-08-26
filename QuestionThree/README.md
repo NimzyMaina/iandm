@@ -2,6 +2,10 @@
 
 Consume Game of Thrones APIs from a Web Page
 
+## Screenshots
+
+![alt tag](https://raw.github.com/NimzyMaina/iandm/master/QuestionThree/screenshots/iandmnuxt.png)
+
 ## How to run code
 
 This assignment has been done using NuxtJs Framework.
