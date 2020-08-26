@@ -37,3 +37,21 @@ $inputs = array_filter($inputs, function ($input) use (&$weight) {
 echo json_encode($inputs);
 
 ```
+
+
+## Output from code
+
+```json
+[
+    {
+        "weight": 4,
+        "value": 50,
+        "worth": 12.5
+    },
+    {
+        "weight": 4,
+        "value": 40,
+        "worth": 10
+    }
+]
+```
