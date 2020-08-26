@@ -1,0 +1,21 @@
+{
+  "name": "iandm",
+  "version": "1.0.0",
+  "description": "I &amp; M Senior Dev Challenge",
+  "author": "NIMROD MAINA",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "nuxt": "^2.0.0",
+    "vue-json-to-table": "^1.0.7",
+    "vue-loading-overlay": "^3.3.4",
+    "vue-promised": "^1.2.2"
+  },
+  "devDependencies": {}
+}
