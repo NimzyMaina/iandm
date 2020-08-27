@@ -1,6 +1,6 @@
 # I&M Challenge
 
-The answers to the challenge can be found in there respective folders
+The answers to the challenge can be found in their respective folders
 
 - [Question One](https://github.com/NimzyMaina/iandm/tree/master/QuestionOne)
 - [Question Two](https://github.com/NimzyMaina/iandm/tree/master/QuestionTwo)
